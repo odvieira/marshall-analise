@@ -1,4 +1,5 @@
 ## Features
+Métricas para classificar variante
 
 | Métrica                           | Alvo                   | Estado | OBS                    |
 | --------------------------------- | ---------------------- | ------ | ---------------------- |
