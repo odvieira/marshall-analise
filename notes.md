@@ -7,4 +7,4 @@ Métricas para classificar variante
 | Quantidade movimentos             | Jogo por ataque        | X      |                        |
 | Roque em alas opostas             | Jogo por ataque        | X      | Nenhuma separabilidade |
 | Grande variação de evaluation     | Dificuldade da posição | X      |                        |
-| (%W/D/L) Resultado por movimento  | Dificuldade da posição |        |                        |
+| (%W/D/L) Resultado por movimento  | Dificuldade da posição | X      |                        |
